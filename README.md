@@ -8,9 +8,9 @@ How to setup frontend and backend ---------
 
    •First  go the backend in here our backend name is Api
     First give the ‘npm install’ command for the install all the node modules for backend
- 		#npm install
+ 		npm install
    Next run the backend using  ‘npm start’ command
- 		#npm start
+ 		npm start
 		
 2.Frontend
 
